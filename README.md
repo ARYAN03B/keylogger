@@ -33,11 +33,3 @@ A Keylogger records all information and keeps track of everything typed. This ca
     ```
 
 4. To stop the Keylogger, press Enter in the terminal window where it's running.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
